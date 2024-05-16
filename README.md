@@ -7,5 +7,5 @@ You need to download all the files of this project into one directory. It is rec
 ## Usage
 After performing all the steps in Installation. It is necessary to run main.py. After that you will get the final information.
 ## Authors
-Sidorov Daniil. Moscow Institute of Physics and Technology. https://github.com/sidorvx
-Andrey Kravets. BostonGene Technologies. https://github.com/laiwas
++ Sidorov Daniil. Moscow Institute of Physics and Technology. https://github.com/sidorvx
++ Andrey Kravets. BostonGene Technologies. https://github.com/laiwas
